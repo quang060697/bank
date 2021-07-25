@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\SIT232\task7.1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\DELL\Desktop\SIT232\task7.1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\DELL\Desktop\SIT232\task7.1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\DELL\Desktop\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\DELL\Desktop\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\deakin\SIT232\task7.1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
